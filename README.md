@@ -1,4 +1,4 @@
-# Stock-Closing-Price-Prediction-Using-Artificial-Neural-Networks
+# Stock_Closing-Price-Prediction-Using-Artificial-Neural-Networks
 
 Stock market basically refers to the collection of markets and exchanges, where shares of publicly owned companies are regularly bought, sold and issued under a formal setup. Prediction of returns associated with stock market is still a challenging task as the market dealing in such financial activities are often dynamic, volatile and non-linear in nature. Stock market predictions are affected by multiple factors including but not limited to political scenarios, international economy, the reports and performances of the company, anticipated takeover or merger, employee layoffs, future estimated earnings, etc. Hence, in order to maximise the company’s profit and lowering down the losses, stock market predictions are necessary. This could be analysed through the trend in the previous periods.
 
